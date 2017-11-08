@@ -4,3 +4,6 @@ Gafas
 Dinero
 pijama
 bufanda
+ipad
+cámara
+réflex
