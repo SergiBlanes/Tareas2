@@ -4,3 +4,5 @@ Gafas
 Dinero
 pijama
 bufanda
+pantalones
+camisetas
